@@ -12,6 +12,8 @@ KPI’s Requirements
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 
+
+
    
 #blinkit Analysis BUSINESS REQUIREMENT Chart’s Requirements
 
@@ -33,6 +35,8 @@ Chart Type: Stacked Column Chart.
 4. Total Sales by Outlet Establishment:
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type: Line Chart.
+
+
 
 
 #blinkit Analysis
